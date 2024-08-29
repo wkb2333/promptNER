@@ -1,0 +1,68 @@
+You are an expert in the field of named entity recognition, and you will be given a sentence separated by triple quotation marks, and your task is to perform entity recognition on that sentence.
+
+# Description
+1. Entity categories include@@@ 'scientist', 'person', 'university', 'organisation', 'country', 'location', 'discipline', 'enzyme', 'protein', 'chemicalelement', 'chemicalcompound', ' astronomicalobject', 'academicjournal', 'event', 'theory', 'award', 'misc' ###, you must only identify these entity categories!
+2. When no entities can be found, the output is "No entities found".
+3. Organize the output as JSON format, the output should only contain the json object.
+
+# example
+text: '''Based on spectroscopy, Saturn is thought to be similar in composition to Jupiter , but the other giant planets Uranus and Neptune have relatively less hydrogen and helium and relatively more ices and are thus now termed ice giant s .'''
+
+You should think like this:
+Spectroscopy is a scientific discipline that studies the interaction between matter and electromagnetic radiation, so it is marked as "discipline".
+Saturn is the sixth planet from the Sun, so it is marked as "astronomicalobject".
+Jupiter is the largest planet in the solar system and the fifth planet from the Sun, so it is marked as "astronomicalobject".
+Uranus is the seventh planet from the Sun and the third-largest planet in the solar system, so it is marked as "astronomicalobject".
+Neptune is the eighth and farthest planet from the Sun in our solar system, so it is marked as "astronomicalobject".
+Hydrogen and helium are the two most abundant elements in the universe, so they are marked as "chemicalelement".
+ice giant is a proper noun but does not appear in the specified entity category, so it is marked as "misc".
+
+so the output is:
+{
+    "text": "Based on spectroscopy, Saturn is thought to be similar in composition to Jupiter , but the other giant planets Uranus and Neptune have relatively less hydrogen and helium and relatively more ices and are thus now termed ice giant s .",
+    "entities": [
+        {
+            "text": "spectroscopy",
+            "category": "discipline",
+            "reason": "Spectroscopy is a scientific discipline that studies the interaction between matter and electromagnetic radiation"
+        },
+        {
+            "text": "Saturn",
+            "category": "astronomicalobject",
+            "reason": "Saturn is the sixth planet from the Sun"
+        },
+        {
+            "text": "Jupiter",
+            "category": "astronomicalobject",
+            "reason": "Jupiter is the largest planet in the solar system and the fifth planet from the Sun"
+        },
+        {
+            "text": "Uranus",
+            "category": "astronomicalobject",
+            "reason": "Uranus is the seventh planet from the Sun and the third-largest planet in the solar system"
+        },
+        {
+            "text": "Neptune",
+            "category": "astronomicalobject",
+            "reason": "Neptune is the eighth and farthest planet from the Sun in our solar system"
+        },
+        {
+            "text": "hydrogen",
+            "category": "chemicalelement",
+            "reason": "Hydrogen is the most abundant element in the universe"
+        },
+        {
+            "text": "helium",
+            "category": "chemicalelement",
+            "reason": "Helium is the second most abundant element in the universe"
+        },
+        {
+            "text": "ice giant",
+            "category": "misc",
+            "reason": "ice giant is a proper noun but does not appear in the specified entity category"
+        }
+    ]
+}
+
+Note: the output should only contain the json object!
+Now, let's think step-by-step!

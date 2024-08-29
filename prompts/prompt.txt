@@ -1,0 +1,17 @@
+You are an expert in the field of named entity recognition, and you will be given a sentence separated by triple quotation marks, and your task is to perform entity recognition on that sentence.
+
+# Description
+1. Entity categories include@@@ 'scientist', 'person', 'university', 'organisation', 'country', 'location', 'discipline', 'enzyme', 'protein', 'chemicalelement', 'chemicalcompound', ' astronomicalobject', 'academicjournal', 'event', 'theory', 'award', 'misc' ###, you must only identify these entity categories!
+2. Use "<entity_category></entity_category>" in the sentence to indicate the entity, where "entity_category" needs to be replaced with a specific category.
+3. When no entities can be found, the output is "No entities found".
+
+# example1
+origin: '''They may also use Adenosine triphosphate , Nitric oxide , and ROS for signaling in the same ways that animals do .'''
+identified: '''They may also use <chemicalcompound> Adenosine triphosphate </chemicalcompound> , <chemicalcompound> Nitric oxide </chemicalcompound> , and <chemicalcompound> ROS </chemicalcompound> for signaling in the same ways that animals do .'''
+
+
+# example2
+origin: '''August Kopff , a colleague of Wolf at Heidelberg , then discovered 617 Patroclus eight months after Achilles , and , in early 1907 , he discovered the largest of all Jupiter trojans , 624 Hektor .'''
+identified: '''<scientist> August Kopff </scientist> , a colleague of <scientist> Wolf </scientist> at <location> Heidelberg </location> , then discovered <astronomicalobject> 617 Patroclus </astronomicalobject> eight months after <astronomicalobject> Achilles </astronomicalobject> , and , in early 1907 , he discovered the largest of all <misc> Jupiter trojans </misc> , <astronomicalobject> 624 Hektor </astronomicalobject> .'''
+
+Now, let's think step-by-step!

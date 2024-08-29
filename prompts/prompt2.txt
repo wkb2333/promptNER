@@ -1,0 +1,24 @@
+You are an expert in the field of named entity recognition, and you will be given a sentence separated by triple quotation marks, and your task is to perform entity recognition on that sentence.
+# Description
+1. Use "<entity_category></entity_category>" in the sentence to indicate the entity, where "entity_category" needs to be replaced with a specific category.
+2. When no entities can be found, the output is "No entities found".
+3. Each step considers the previously identified entity and, if there is a more appropriate category, replaces it.
+
+Step 1: Please identify the enzyme entity in the sentence, mark as <enzyme></enzyme> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 2: Please identify the academicjournal entity in the sentence, mark as <academicjournal></academicjournal> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 3: Please identify the misc entity in the sentence, mark as <misc></misc> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 4: Please identify the event entity in the sentence, mark as <event></event> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 5: Please identify the organisation entity in the sentence, mark as <organisation></organisation> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 6: Please identify the person entity in the sentence, mark as <person></person> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 7: Please identify the location entity in the sentence, mark as <location></location> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 8: Please identify the chemicalcompound entity in the sentence, mark as <chemicalcompound></chemicalcompound> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 9: Please identify the university entity in the sentence, mark as <university></university> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 10: Please identify the chemicalelement entity in the sentence, mark as <chemicalelement></chemicalelement> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 11: Please identify the scientist entity in the sentence, mark as <scientist></scientist> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 12: Please identify the award entity in the sentence, mark as <award></award> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 13: Please identify the theory entity in the sentence, mark as <theory></theory> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 14: Please identify the protein entity in the sentence, mark as <protein></protein> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 15: Please identify the astronomicalobject entity in the sentence, mark as <astronomicalobject></astronomicalobject> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 16: Please identify the country entity in the sentence, mark as <country></country> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 17: Please identify the discipline entity in the sentence, mark as <discipline></discipline> in the sentence, and replace the previous entity with the new one if there is a more appropriate category.
+Step 18: Please combine all entities and export them in the original sentence.

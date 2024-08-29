@@ -1,0 +1,1436 @@
+[
+    {
+        "text": "ESA 's Advanced Concepts Team also demonstrated theoretically that a deflection of 99942 Apophis could be achieved by sending a spacecraft weighing less than a tonne to impact against the asteroid .",
+        "entities": [
+            {
+                "text": "ESA",
+                "category": "organisation",
+                "reason": "ESA stands for European Space Agency, which is an organisation."
+            },
+            {
+                "text": "Advanced Concepts Team",
+                "category": "organisation",
+                "reason": "Advanced Concepts Team is a part of ESA, and it can be considered as a sub-organisation or a department within the larger organisation."
+            },
+            {
+                "text": "99942 Apophis",
+                "category": "astronomicalobject",
+                "reason": "99942 Apophis is the name of a specific asteroid, which falls under the category of astronomical objects."
+            },
+            {
+                "text": "spacecraft",
+                "category": "misc",
+                "reason": "The word 'spacecraft' refers to a vehicle used for space travel. It is not a specific named entity but a general term. Since it doesn't fit into any of the specified entity categories, it is marked as 'misc'."
+            }
+        ],
+        "id": 0
+    },
+    {
+        "text": "Studies in human neutrophils first detected a plasma membrane -localized site which reversibly bound 5-oxo-ETE and had the attributes of a Gi alpha subunit -linked G protein-coupled receptor based on the ability of 5-oxo-ETE to activate this class of membrane G proteins by a pertussis toxin -sensitive mechanism .",
+        "entities": [
+            {
+                "text": "human neutrophils",
+                "category": "misc",
+                "reason": "human neutrophils are a type of immune cell, but since 'cell' is not an entity category, it is classified as misc."
+            },
+            {
+                "text": "plasma membrane",
+                "category": "misc",
+                "reason": "plasma membrane is a biological structure, but it does not fall under any of the specified entity categories, so it is classified as misc."
+            },
+            {
+                "text": "5-oxo-ETE",
+                "category": "chemicalcompound",
+                "reason": "5-oxo-ETE is a specific chemical compound mentioned in the text."
+            },
+            {
+                "text": "Gi alpha subunit",
+                "category": "protein",
+                "reason": "Gi alpha subunit is a specific protein mentioned in the text."
+            },
+            {
+                "text": "G protein-coupled receptor",
+                "category": "protein",
+                "reason": "G protein-coupled receptor is a type of protein that interacts with G proteins."
+            },
+            {
+                "text": "membrane G proteins",
+                "category": "protein",
+                "reason": "membrane G proteins are proteins associated with the membrane and involved in signal transduction."
+            },
+            {
+                "text": "pertussis toxin",
+                "category": "chemicalcompound",
+                "reason": "pertussis toxin is a specific chemical compound mentioned in the text."
+            }
+        ],
+        "id": 1
+    },
+    {
+        "text": "That first evening session was organized by Jack Yardley from Johns Hopkins University , and included Henry Appelman ( University of Michigan ) , Harvey Goldman ( Beth Israel Deaconess Medical Center and Harvard Medical School ) , Bill Hawk ( The Cleveland Clinic ) , Tom Kent ( University of Iowa ) , Si-Chun Ming ( Temple University ) , Tom Norris ( University of Washington ) , and Robert Riddell ( University of Chicago ) .",
+        "entities": [
+            {
+                "text": "Jack Yardley",
+                "category": "person",
+                "reason": "Jack Yardley is a person's name."
+            },
+            {
+                "text": "Johns Hopkins University",
+                "category": "university",
+                "reason": "Johns Hopkins University is an educational institution."
+            },
+            {
+                "text": "Henry Appelman",
+                "category": "person",
+                "reason": "Henry Appelman is a person's name."
+            },
+            {
+                "text": "University of Michigan",
+                "category": "university",
+                "reason": "University of Michigan is an educational institution."
+            },
+            {
+                "text": "Harvey Goldman",
+                "category": "person",
+                "reason": "Harvey Goldman is a person's name."
+            },
+            {
+                "text": "Beth Israel Deaconess Medical Center",
+                "category": "organisation",
+                "reason": "Beth Israel Deaconess Medical Center is a medical institution."
+            },
+            {
+                "text": "Harvard Medical School",
+                "category": "university",
+                "reason": "Harvard Medical School is an educational institution."
+            },
+            {
+                "text": "Bill Hawk",
+                "category": "person",
+                "reason": "Bill Hawk is a person's name."
+            },
+            {
+                "text": "The Cleveland Clinic",
+                "category": "organisation",
+                "reason": "The Cleveland Clinic is a medical institution."
+            },
+            {
+                "text": "Tom Kent",
+                "category": "person",
+                "reason": "Tom Kent is a person's name."
+            },
+            {
+                "text": "University of Iowa",
+                "category": "university",
+                "reason": "University of Iowa is an educational institution."
+            },
+            {
+                "text": "Si-Chun Ming",
+                "category": "person",
+                "reason": "Si-Chun Ming is a person's name."
+            },
+            {
+                "text": "Temple University",
+                "category": "university",
+                "reason": "Temple University is an educational institution."
+            },
+            {
+                "text": "Tom Norris",
+                "category": "person",
+                "reason": "Tom Norris is a person's name."
+            },
+            {
+                "text": "University of Washington",
+                "category": "university",
+                "reason": "University of Washington is an educational institution."
+            },
+            {
+                "text": "Robert Riddell",
+                "category": "person",
+                "reason": "Robert Riddell is a person's name."
+            },
+            {
+                "text": "University of Chicago",
+                "category": "university",
+                "reason": "University of Chicago is an educational institution."
+            }
+        ],
+        "id": 2
+    },
+    {
+        "text": "Viral TK phosphorylates aciclovir into its monophosphate form , which is subsequently phosphorylated to active aciclovir triphoshate by cellular kinase s , thus selectively inhibiting viral DNA polymerase .",
+        "entities": [
+            {
+                "text": "Viral TK",
+                "category": "enzyme",
+                "reason": "Viral TK refers to a viral thymidine kinase, which is an enzyme involved in the phosphorylation of aciclovir."
+            },
+            {
+                "text": "aciclovir",
+                "category": "chemicalcompound",
+                "reason": "Aciclovir is an antiviral drug, which is a type of chemical compound."
+            },
+            {
+                "text": "monophosphate",
+                "category": "chemicalcompound",
+                "reason": "Monophosphate refers to a form of aciclovir after it has been phosphorylated, indicating a chemical compound."
+            },
+            {
+                "text": "aciclovir triphoshate",
+                "category": "chemicalcompound",
+                "reason": "Aciclovir triphosphate is the active form of the drug aciclovir after further phosphorylation, representing a chemical compound."
+            },
+            {
+                "text": "cellular kinase s",
+                "category": "enzyme",
+                "reason": "Cellular kinases are enzymes that phosphorylate molecules within cells. The 's' at the end suggests a plural form but does not change the fundamental nature of the entity."
+            },
+            {
+                "text": "viral DNA polymerase",
+                "category": "enzyme",
+                "reason": "Viral DNA polymerase is an enzyme that viruses use to replicate their DNA."
+            }
+        ],
+        "id": 3
+    },
+    {
+        "text": "He also won the Copley Medal in 1907 , the Henry Draper Medal in 1916 and the Gold Medal of the Royal Astronomical Society in 1923 .",
+        "entities": [
+            {
+                "text": "Copley Medal",
+                "category": "award",
+                "reason": "Copley Medal is an award given by the Royal Society for outstanding achievements in scientific research."
+            },
+            {
+                "text": "Henry Draper Medal",
+                "category": "award",
+                "reason": "Henry Draper Medal is an award given for outstanding contributions to the field of astronomical physics."
+            },
+            {
+                "text": "Gold Medal of the Royal Astronomical Society",
+                "category": "award",
+                "reason": "Gold Medal of the Royal Astronomical Society is the highest award given by the Royal Astronomical Society for excellence in the field of astronomy."
+            }
+        ],
+        "id": 4
+    },
+    {
+        "text": "Hypomethylation of these genes correlated with decreased expression of various DNMTs and Methyl-CpG-binding domain binding proteins .",
+        "entities": [
+            {
+                "text": "Hypomethylation",
+                "category": "misc",
+                "reason": "Hypomethylation refers to a state of reduced methylation, which is a chemical modification of DNA. Although it is related to the field of epigenetics, it does not fall into any of the specified entity categories, so it is marked as 'misc'."
+            },
+            {
+                "text": "DNMTs",
+                "category": "enzyme",
+                "reason": "DNMTs refers to DNA methyltransferases, which are enzymes that catalyze the transfer of methyl groups to DNA, specifically to cytosine residues in CpG dinucleotides."
+            },
+            {
+                "text": "Methyl-CpG-binding domain binding proteins",
+                "category": "protein",
+                "reason": "Methyl-CpG-binding domain (MBD) proteins are a family of proteins that specifically bind to methylated CpG sites in DNA. They are involved in the reading and interpretation of the epigenetic information encoded by DNA methylation. Since they are proteins, they fall into the 'protein' category."
+            }
+        ],
+        "id": 5
+    },
+    {
+        "text": "In February 2016 , he was one of the four scientists of LIGO Scientific Collaboration / Virgo interferometer collaboration presenting at the press conference for the announcement that the first direct gravitational wave observation had been made in September 2015 .",
+        "entities": [
+            {
+                "text": "February 2016",
+                "category": "misc",
+                "reason": "This is a time expression, and although it does not fit into any of the predefined categories, it can be considered as a miscellaneous entity for the purpose of this task."
+            },
+            {
+                "text": "LIGO Scientific Collaboration / Virgo interferometer collaboration",
+                "category": "organisation",
+                "reason": "LIGO Scientific Collaboration and Virgo interferometer collaboration are names of organized groups working in the field of scientific research, specifically related to gravitational wave observation."
+            },
+            {
+                "text": "press conference",
+                "category": "misc",
+                "reason": "Although 'press conference' is not an entity in the specified categories, it can be considered as a miscellaneous entity because it is a significant event mentioned in the sentence."
+            },
+            {
+                "text": "gravitational wave observation",
+                "category": "misc",
+                "reason": "Gravitational wave observation is not an entity that fits into any of the predefined categories, but it is a significant concept in the sentence related to the scientific discipline and event. Therefore, it is marked as miscellaneous."
+            },
+            {
+                "text": "September 2015",
+                "category": "misc",
+                "reason": "Similar to \"February 2016\", this is a time expression and is considered a miscellaneous entity."
+            }
+        ],
+        "id": 6
+    },
+    {
+        "text": "Research indicates that the majority of variation in coat growth pattern , length and curl can be attributed to mutations in four genes , the R-spondin-2 gene or RSPO2 , the fibroblast growth factor-5 gene or FGF5 , the KRT71 gene or KRT71 and the melanocortin 5 receptor gene ( MC5R ) .",
+        "entities": [
+            {
+                "text": "R-spondin-2 gene",
+                "category": "gene",
+                "reason": "Directly mentioned as a gene."
+            },
+            {
+                "text": "RSPO2",
+                "category": "gene",
+                "reason": "Abbreviation for R-spondin-2 gene."
+            },
+            {
+                "text": "fibroblast growth factor-5 gene",
+                "category": "gene",
+                "reason": "Directly mentioned as a gene."
+            },
+            {
+                "text": "FGF5",
+                "category": "gene",
+                "reason": "Abbreviation for fibroblast growth factor-5 gene."
+            },
+            {
+                "text": "KRT71 gene",
+                "category": "gene",
+                "reason": "Directly mentioned as a gene."
+            },
+            {
+                "text": "KRT71",
+                "category": "gene",
+                "reason": "Abbreviation for KRT71 gene."
+            },
+            {
+                "text": "melanocortin 5 receptor gene",
+                "category": "gene",
+                "reason": "Directly mentioned as a gene."
+            },
+            {
+                "text": "MC5R",
+                "category": "gene",
+                "reason": "Abbreviation for melanocortin 5 receptor gene."
+            }
+        ],
+        "id": 7
+    },
+    {
+        "text": "On 9 May 1821 he married in Klein Lankum with Camper 's third child and second daughter Frederika Theodora Ernestina Camper ( 1799-1834 ) , who was herself an amateur-scientist who accompanied him on voyages to Georges Cuvier in France and Humphry Davy in England ; she made drawings of his specimens .",
+        "entities": [
+            {
+                "text": "Klein Lankum",
+                "category": "location",
+                "reason": "Klein Lankum is a place where the marriage took place, identified as a location."
+            },
+            {
+                "text": "Camper",
+                "category": "person",
+                "reason": "Camper is mentioned as the surname of Frederika Theodora Ernestina Camper's parent, indicating a person."
+            },
+            {
+                "text": "Frederika Theodora Ernestina Camper",
+                "category": "person",
+                "reason": "Frederika Theodora Ernestina Camper is identified as an individual person, the third child and second daughter of Camper."
+            },
+            {
+                "text": "Georges Cuvier",
+                "category": "scientist",
+                "reason": "Georges Cuvier is a well-known scientist in the field of natural history, specifically in zoology and paleontology. He is mentioned as someone who was visited by Frederika Theodora Ernestina Camper."
+            },
+            {
+                "text": "Humphry Davy",
+                "category": "scientist",
+                "reason": "Humphry Davy is a recognized scientist in the field of chemistry. He is mentioned as an individual who was visited by Frederika Theodora Ernestina Camper."
+            },
+            {
+                "text": "France",
+                "category": "country",
+                "reason": "France is mentioned as the location of Georges Cuvier, indicating a country."
+            },
+            {
+                "text": "England",
+                "category": "country",
+                "reason": "England is mentioned as the location of Humphry Davy, signifying a country."
+            }
+        ],
+        "id": 8
+    },
+    {
+        "text": "That is , cell stimulation causes DHA to be released from the sn-2 position of their membrane-bound cellular phospholipid pools through the action of a Phospholipase A2 -type enzyme and the subsequent attack of the released DHA by CYP450 epoxidases .",
+        "entities": [
+            {
+                "text": "DHA",
+                "category": "chemicalcompound",
+                "reason": "DHA stands for docosahexaenoic acid, which is a type of fatty acid and thus a chemical compound."
+            },
+            {
+                "text": "Phospholipase A2",
+                "category": "enzyme",
+                "reason": "Phospholipase A2 is an enzyme that catalyzes the hydrolysis of phospholipids, specifically at the sn-2 position."
+            },
+            {
+                "text": "CYP450 epoxidases",
+                "category": "enzyme",
+                "reason": "CYP450 epoxidases refer to a group of enzymes within the cytochrome P450 family that are responsible for epoxidation reactions."
+            }
+        ],
+        "id": 9
+    },
+    {
+        "text": "Football is also a common sport and the multi-use Saifur Rahman Stadium and Netaji Subhas Chandra Bose Stadium s are known to host football matches .",
+        "entities": [
+            {
+                "text": "Football",
+                "category": "misc",
+                "reason": "Football is a sport but does not fit into any other specified entity category, so it is marked as misc."
+            },
+            {
+                "text": "Saifur Rahman Stadium",
+                "category": "location",
+                "reason": "Saifur Rahman Stadium is a specific location used for sports events, hence marked as location."
+            },
+            {
+                "text": "Netaji Subhas Chandra Bose Stadium",
+                "category": "location",
+                "reason": "Netaji Subhas Chandra Bose Stadium is a named sports facility and a specific location, thus marked as location."
+            }
+        ],
+        "id": 10
+    },
+    {
+        "text": "Khan 's research focus is on developing new inhibitors against multidrug resistant clinical strains with special interest on extended spectrum beta lactamases ( ESBL ) such as NDM-1 and Beta-lactamase , using QSARR modeling and structure-based virtual screening methods .",
+        "entities": [
+            {
+                "text": "Khan",
+                "category": "person",
+                "reason": "Khan refers to a person, likely a researcher based on the context of the sentence."
+            },
+            {
+                "text": "multidrug resistant clinical strains",
+                "category": "misc",
+                "reason": "This phrase refers to a type of clinical strain that is resistant to multiple drugs. It does not fit into any of the specified entity categories, so it is marked as misc."
+            },
+            {
+                "text": "extended spectrum beta lactamases ( ESBL )",
+                "category": "enzyme",
+                "reason": "Extended spectrum beta lactamases (ESBL) are enzymes that confer resistance to certain antibiotics. Therefore, they are marked as enzymes."
+            },
+            {
+                "text": "NDM-1",
+                "category": "misc",
+                "reason": "NDM-1 is a specific type of enzyme (New Delhi metallo-beta-lactamase 1) that confers resistance to certain antibiotics. However, since it is a specific nomenclature and not a general term for an enzyme, it is marked as misc."
+            },
+            {
+                "text": "Beta-lactamase",
+                "category": "enzyme",
+                "reason": "Beta-lactamase is a type of enzyme that hydrolyzes beta-lactam antibiotics, rendering them inactive. Therefore, it is marked as an enzyme."
+            },
+            {
+                "text": "QSARR modeling",
+                "category": "misc",
+                "reason": "QSARR (Quantitative Structure-Activity Relationship) modeling is a method used in drug discovery. It does not fit into any of the specified entity categories, so it is marked as misc."
+            },
+            {
+                "text": "structure-based virtual screening methods",
+                "category": "misc",
+                "reason": "Structure-based virtual screening methods refer to computational techniques used in drug discovery to identify potential drug candidates. They do not fit into any of the specified entity categories, so they are marked as misc."
+            }
+        ],
+        "id": 11
+    },
+    {
+        "text": "Polyethylene terephthalate ( PET ) bottles are made from ethylene and P-Xylene .",
+        "entities": [
+            {
+                "text": "Polyethylene terephthalate ( PET )",
+                "category": "chemicalcompound",
+                "reason": "Polyethylene terephthalate (PET) is a specific type of polymer, commonly used in bottles and other packaging materials."
+            },
+            {
+                "text": "ethylene",
+                "category": "chemicalcompound",
+                "reason": "Ethylene is a chemical compound, specifically an alkene with the formula C2H4."
+            },
+            {
+                "text": "P-Xylene",
+                "category": "chemicalcompound",
+                "reason": "P-Xylene, also known as para-xylene, is a specific isomer of xylene, which is a chemical compound."
+            }
+        ],
+        "id": 12
+    },
+    {
+        "text": "Most widely used to assess potential synthetic lethal interactions is using siRNA and CRISPR to modify target genes .",
+        "entities": [
+            {
+                "text": "synthetic lethal interactions",
+                "category": "misc",
+                "reason": "The phrase 'synthetic lethal interactions' is a biological term referring to a specific type of genetic interaction, but it does not fall under any of the specified entity categories. Hence, it is classified as 'misc'."
+            },
+            {
+                "text": "siRNA",
+                "category": "misc",
+                "reason": "siRNA (small interfering RNA) is a type of RNA molecule involved in the RNA interference pathway, but it is not explicitly listed as an entity category. Since it is a specific biological term not covered by the given categories, it is classified as 'misc'."
+            },
+            {
+                "text": "CRISPR",
+                "category": "misc",
+                "reason": "CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a genome editing technology, but it is not explicitly listed as an entity category. As it is a specific term related to biotechnology not covered by the given categories, it is classified as 'misc'."
+            }
+        ],
+        "id": 13
+    },
+    {
+        "text": "In the low pressure process \u03b1-olefins ( e.g. 1-Butene or 1-Hexene ) may be added , which are incorporated in the polymer chain during polymerization .",
+        "entities": [
+            {
+                "text": "low pressure process",
+                "category": "misc",
+                "reason": "This refers to a type of industrial process, which does not fit into any of the specified categories. It is a general term describing a condition or methodology, hence classified as misc."
+            },
+            {
+                "text": "\u03b1-olefins",
+                "category": "chemicalcompound",
+                "reason": "\u03b1-olefins are organic compounds with a specific chemical structure, characterized by a double bond at the alpha position. They are a type of chemical compound."
+            },
+            {
+                "text": "1-Butene",
+                "category": "chemicalcompound",
+                "reason": "1-Butene is a specific chemical compound, an olefin with a four-carbon chain and a double bond at the first position. It falls under the category of chemical compounds."
+            },
+            {
+                "text": "1-Hexene",
+                "category": "chemicalcompound",
+                "reason": "1-Hexene is another specific chemical compound, an olefin with a six-carbon chain and a double bond at the first position. It is also classified as a chemical compound."
+            },
+            {
+                "text": "polymer chain",
+                "category": "misc",
+                "reason": "Polymer chain refers to the long chains of repeating monomers in a polymer. While polymers themselves could be considered chemical compounds, the term 'polymer chain' is more of a descriptive term for a structural feature of polymers, rather than a specific chemical entity. Hence, it is classified as misc."
+            },
+            {
+                "text": "polymerization",
+                "category": "misc",
+                "reason": "Polymerization is a chemical process that involves the conversion of monomers into polymers. It is a general term describing a type of chemical reaction, rather than a specific chemical entity. Therefore, it is classified as misc."
+            }
+        ],
+        "id": 14
+    },
+    {
+        "text": "Cory 's work has been published in research journals including Blood ( journal ) , The EMBO Journal , Nature ( journal ) , Cell Death & amp ; Differentiation , and Proceedings of the National Academy of Sciences of the United States of America .",
+        "entities": [
+            {
+                "text": "Cory",
+                "category": "person",
+                "reason": "The given name 'Cory' refers to a person."
+            },
+            {
+                "text": "Blood ( journal )",
+                "category": "academicjournal",
+                "reason": "The text 'Blood (journal)' refers to an academic journal in the field of research."
+            },
+            {
+                "text": "The EMBO Journal",
+                "category": "academicjournal",
+                "reason": "The text 'The EMBO Journal' is the name of a specific academic journal in the field of research."
+            },
+            {
+                "text": "Nature ( journal )",
+                "category": "academicjournal",
+                "reason": "The text 'Nature (journal)' refers to the well-known academic journal Nature, which publishes research articles."
+            },
+            {
+                "text": "Cell Death & amp ; Differentiation",
+                "category": "academicjournal",
+                "reason": "The text 'Cell Death & amp ; Differentiation' is the name of an academic journal that publishes research related to cell death and differentiation."
+            },
+            {
+                "text": "Proceedings of the National Academy of Sciences of the United States of America",
+                "category": "academicjournal",
+                "reason": "The text refers to the official journal of the National Academy of Sciences, which is a well-known academic journal publishing original research."
+            }
+        ],
+        "id": 15
+    },
+    {
+        "text": "Albarn teamed up with Robert 3D Del Naja of Massive Attack and worked with Stop the War Coalition , CND and the Muslim Association of Britain to organise campaigns to raise awareness of the potential dangers of the UK 's involvement in the war .",
+        "entities": [
+            {
+                "text": "Albarn",
+                "category": "person",
+                "reason": "Albarn is a person's name, referring to a specific individual."
+            },
+            {
+                "text": "Robert 3D Del Naja",
+                "category": "person",
+                "reason": "Robert 3D Del Naja is a person's full name, identifying a specific individual."
+            },
+            {
+                "text": "Massive Attack",
+                "category": "organisation",
+                "reason": "Massive Attack is the name of a musical group, which falls under the category of organisation."
+            },
+            {
+                "text": "Stop the War Coalition",
+                "category": "organisation",
+                "reason": "Stop the War Coalition is the name of an organisation working against war, hence falls under the organisation category."
+            },
+            {
+                "text": "CND",
+                "category": "organisation",
+                "reason": "CND is an abbreviation for Campaign for Nuclear Disarmament, an organisation working for nuclear disarmament, hence falls under the organisation category."
+            },
+            {
+                "text": "Muslim Association of Britain",
+                "category": "organisation",
+                "reason": "Muslim Association of Britain is the name of an organisation representing Muslims in Britain, hence falls under the organisation category."
+            },
+            {
+                "text": "UK",
+                "category": "country",
+                "reason": "UK is an abbreviation for United Kingdom, a country name, hence falls under the country category."
+            }
+        ],
+        "id": 16
+    },
+    {
+        "text": "Further articles appeared on neuroethics in Nature Neuroscience , Neuron , and Brain and Cognition .",
+        "entities": [
+            {
+                "text": "neuroethics",
+                "category": "discipline",
+                "reason": "Neuroethics is a subfield of ethics that specifically addresses the ethical issues raised by neuroscience research and its applications."
+            },
+            {
+                "text": "Nature Neuroscience",
+                "category": "academicjournal",
+                "reason": "Nature Neuroscience is a scientific journal that publishes research articles in the field of neuroscience."
+            },
+            {
+                "text": "Neuron",
+                "category": "academicjournal",
+                "reason": "Neuron is another scientific journal that focuses on neuroscience research."
+            },
+            {
+                "text": "Brain and Cognition",
+                "category": "academicjournal",
+                "reason": "Brain and Cognition is a journal that publishes studies on the relationship between brain function and cognitive processes, also related to neuroscience."
+            }
+        ],
+        "id": 17
+    },
+    {
+        "text": "The primary effectors of G\u03b2\u03b3 are various ion channels , such as G protein-coupled inwardly-rectifying potassium channel ( GIRKs ) , P-type calcium channel / Q-type calcium channel - and N- type voltage-gated Casup2 + / sup channels , as well as some isoforms of AC and PLC , along with some phosphoinositide-3-kinase ( PI3K ) isoforms .",
+        "entities": [
+            {
+                "text": "G\u03b2\u03b3",
+                "category": "protein",
+                "reason": "G\u03b2\u03b3 refers to specific subunits of a G protein, which is a type of protein involved in signal transduction."
+            },
+            {
+                "text": "ion channels",
+                "category": "protein",
+                "reason": "Ion channels are proteins that form pores in the cell membrane, allowing ions to pass through."
+            },
+            {
+                "text": "G protein-coupled inwardly-rectifying potassium channel ( GIRKs )",
+                "category": "protein",
+                "reason": "GIRKs are specific types of ion channels that are coupled to G proteins and regulate potassium ion flow."
+            },
+            {
+                "text": "P-type calcium channel / Q-type calcium channel",
+                "category": "protein",
+                "reason": "P-type and Q-type calcium channels are specific types of ion channels that regulate calcium ion flow into cells."
+            },
+            {
+                "text": "N- type voltage-gated Casup2 + / sup channels",
+                "category": "protein",
+                "reason": "N-type voltage-gated channels are another type of ion channel, and the mention of 'Casup2 + / sup' suggests a calcium-related channel, although the exact nomenclature may be a typo or variation of the standard nomenclature."
+            },
+            {
+                "text": "AC",
+                "category": "enzyme",
+                "reason": "AC typically stands for adenylate cyclase, an enzyme that catalyzes the formation of cyclic AMP (cAMP) from ATP."
+            },
+            {
+                "text": "PLC",
+                "category": "enzyme",
+                "reason": "PLC stands for phospholipase C, an enzyme that hydrolyzes phospholipids, leading to the generation of second messengers like inositol trisphosphate (IP3) and diacylglycerol (DAG)."
+            },
+            {
+                "text": "phosphoinositide-3-kinase ( PI3K )",
+                "category": "enzyme",
+                "reason": "Phosphoinositide-3-kinase (PI3K) is an enzyme that phosphorylates the 3-position hydroxyl group of the inositol ring of phosphoinositides, generating second messengers important in signal transduction."
+            }
+        ],
+        "id": 18
+    },
+    {
+        "text": "It displays the mean time , sidereal , ( or star ) , time and the motions of the sun , moon and the five then-known planets Venus , Mars , Saturn , Mercury , and Jupiter .",
+        "entities": [
+            {
+                "text": "sidereal",
+                "category": "misc",
+                "reason": "sidereal is a term related to astronomical measurements but does not fit into any specified entity category, hence marked as misc."
+            },
+            {
+                "text": "sun",
+                "category": "astronomicalobject",
+                "reason": "The sun is a star and a major astronomical object in our solar system."
+            },
+            {
+                "text": "moon",
+                "category": "astronomicalobject",
+                "reason": "The moon is a natural satellite of the Earth and an astronomical object."
+            },
+            {
+                "text": "Venus",
+                "category": "astronomicalobject",
+                "reason": "Venus is one of the planets in our solar system."
+            },
+            {
+                "text": "Mars",
+                "category": "astronomicalobject",
+                "reason": "Mars is one of the planets in our solar system."
+            },
+            {
+                "text": "Saturn",
+                "category": "astronomicalobject",
+                "reason": "Saturn is one of the planets in our solar system."
+            },
+            {
+                "text": "Mercury",
+                "category": "astronomicalobject",
+                "reason": "Mercury is one of the planets in our solar system."
+            },
+            {
+                "text": "Jupiter",
+                "category": "astronomicalobject",
+                "reason": "Jupiter is one of the planets in our solar system."
+            }
+        ],
+        "id": 19
+    },
+    {
+        "text": "Hamilton was a visiting professor at Harvard University and later spent nine months with the Royal Society ' s and the Royal Geographical Society ' s Xavantina-Cachimbo Expedition as a visiting professor at the University of S\u00e3o Paulo .",
+        "entities": [
+            {
+                "text": "Hamilton",
+                "category": "person",
+                "reason": "Hamilton is referred to as a visiting professor, indicating that it is a person's name."
+            },
+            {
+                "text": "Harvard University",
+                "category": "university",
+                "reason": "Harvard University is a well-known educational institution, falling under the category of 'university'."
+            },
+            {
+                "text": "Royal Society",
+                "category": "organisation",
+                "reason": "The Royal Society is a renowned organization, hence it falls under the 'organisation' category."
+            },
+            {
+                "text": "Royal Geographical Society",
+                "category": "organisation",
+                "reason": "Royal Geographical Society is an organization dedicated to geography, thus categorized as an 'organisation'."
+            },
+            {
+                "text": "Xavantina-Cachimbo Expedition",
+                "category": "event",
+                "reason": "Xavantina-Cachimbo Expedition refers to a specific expedition or event, hence classified as an 'event'."
+            },
+            {
+                "text": "University of S\u00e3o Paulo",
+                "category": "university",
+                "reason": "University of S\u00e3o Paulo is an educational institution, so it is categorized as a 'university'."
+            }
+        ],
+        "id": 20
+    },
+    {
+        "text": "In the second season , married couple Rose Nadler ( L. Scott Caldwell ) and Bernard Nadler ( Sam Anderson ) , separated on opposite sides of the island ( she with the main characters , he with the tail section survivors ) , were featured in a flashback episode after being reunited .",
+        "entities": [
+            {
+                "text": "Rose Nadler",
+                "category": "person",
+                "reason": "Rose Nadler is identified as a married couple, specifically a person, in the sentence."
+            },
+            {
+                "text": "Bernard Nadler",
+                "category": "person",
+                "reason": "Bernard Nadler is identified as a married couple, specifically a person, in the sentence."
+            },
+            {
+                "text": "L. Scott Caldwell",
+                "category": "person",
+                "reason": "L. Scott Caldwell is mentioned as the actor portraying Rose Nadler, making them a person entity."
+            },
+            {
+                "text": "Sam Anderson",
+                "category": "person",
+                "reason": "Sam Anderson is mentioned as the actor portraying Bernard Nadler, making them a person entity."
+            }
+        ],
+        "id": 21
+    },
+    {
+        "text": "In the presence of Casup2 + / sup , calmodulin and S100 protein bind calponin at the region of actin-binding sites and reverse calponin 's inhibition of myosin MgATPase .",
+        "entities": [
+            {
+                "text": "calmodulin",
+                "category": "protein",
+                "reason": "Calmodulin is a calcium-binding protein mentioned in the text, which falls under the 'protein' category."
+            },
+            {
+                "text": "S100 protein",
+                "category": "protein",
+                "reason": "S100 protein is a type of protein mentioned in the text, specifically related to binding calponin, and thus falls under the 'protein' category."
+            },
+            {
+                "text": "calponin",
+                "category": "protein",
+                "reason": "Calponin is a protein mentioned in the text that interacts with other proteins at actin-binding sites, making it fall under the 'protein' category."
+            },
+            {
+                "text": "actin",
+                "category": "protein",
+                "reason": "Actin is a protein that forms part of the cytoskeleton and is mentioned in relation to binding sites, thus falling under the 'protein' category."
+            },
+            {
+                "text": "myosin",
+                "category": "protein",
+                "reason": "Myosin is a protein that interacts with actin in muscle contraction and is mentioned in the text, making it fall under the 'protein' category."
+            },
+            {
+                "text": "MgATPase",
+                "category": "enzyme",
+                "reason": "MgATPase refers to an enzyme that catalyzes reactions involving ATP and magnesium. Since it is an enzyme, it falls under the 'enzyme' category."
+            }
+        ],
+        "id": 22
+    },
+    {
+        "text": "The amplified fragment ( amplicon ) is incubated with the restriction enzyme HaeIII , comprising the SNP in their recognition sequence GGCC .",
+        "entities": [
+            {
+                "text": "amplified fragment ( amplicon )",
+                "category": "misc",
+                "reason": "The phrase 'amplified fragment (amplicon)' refers to a specific type of DNA fragment generated through amplification, but it does not fit into any of the predefined entity categories. Therefore, it is classified as 'misc'."
+            },
+            {
+                "text": "restriction enzyme HaeIII",
+                "category": "enzyme",
+                "reason": "Restriction enzymes are proteins that cut DNA at specific sequences. Here, 'HaeIII' is a specific type of restriction enzyme, hence it is marked as an 'enzyme'."
+            },
+            {
+                "text": "SNP",
+                "category": "misc",
+                "reason": "SNP stands for Single Nucleotide Polymorphism, a variation in a single nucleotide that occurs at a specific position in the genome. It is a commonly used term in genetics but does not fall under any of the specified entity categories, hence marked as 'misc'."
+            },
+            {
+                "text": "recognition sequence GGCC",
+                "category": "misc",
+                "reason": "The recognition sequence GGCC refers to a specific sequence of nucleotides that the restriction enzyme HaeIII recognizes and binds to. While it is related to the function of the enzyme, it does not fit into any of the predefined entity categories and is thus marked as 'misc'."
+            }
+        ],
+        "id": 23
+    },
+    {
+        "text": "She has won five Grammy Awards , including Grammy Award for Album of the Year and Grammy Award for Record of the Year .",
+        "entities": [
+            {
+                "text": "Grammy Awards",
+                "category": "award",
+                "reason": "Grammy Awards is an award given to recognize outstanding achievements in the music industry."
+            },
+            {
+                "text": "Grammy Award for Album of the Year",
+                "category": "award",
+                "reason": "Grammy Award for Album of the Year is a specific award category within the Grammy Awards."
+            },
+            {
+                "text": "Grammy Award for Record of the Year",
+                "category": "award",
+                "reason": "Grammy Award for Record of the Year is another specific award category within the Grammy Awards."
+            }
+        ],
+        "id": 24
+    },
+    {
+        "text": "Some asteroid s , also named after the same Shakespearean characters , share names with moons of Uranus : 171 Ophelia , 218 Bianca , 593 Titania , 666 Desdemona , 763 Cupido , and 2758 Cordelia .",
+        "entities": [
+            {
+                "text": "Uranus",
+                "category": "astronomicalobject",
+                "reason": "Uranus is a planet in our solar system, and it falls under the category of astronomical objects."
+            },
+            {
+                "text": "Ophelia",
+                "category": "misc",
+                "reason": "Ophelia is a name shared by an asteroid and a moon of Uranus, but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            },
+            {
+                "text": "Bianca",
+                "category": "misc",
+                "reason": "Bianca is a name shared by an asteroid and a moon of Uranus, but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            },
+            {
+                "text": "Titania",
+                "category": "misc",
+                "reason": "Titania is a name shared by an asteroid and a moon of Uranus, but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            },
+            {
+                "text": "Desdemona",
+                "category": "misc",
+                "reason": "Desdemona is a name shared by an asteroid and a moon of Uranus, but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            },
+            {
+                "text": "Cupido",
+                "category": "misc",
+                "reason": "Cupido is a name shared by an asteroid and potentially a moon or other feature (though not explicitly stated as a moon of Uranus in the sentence), but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            },
+            {
+                "text": "Cordelia",
+                "category": "misc",
+                "reason": "Cordelia is a name shared by an asteroid and a moon of Uranus, but it does not fall under any of the specified entity categories. It is a proper noun, hence marked as misc."
+            }
+        ],
+        "id": 25
+    },
+    {
+        "text": "It was opened in 1982 to host the 1982 Southern Cross Games and since then it has hosted the 1983 South American Championships in Athletics ; the 1985 , 1994 and 2001 South American Junior Championships in Athletics ; and the 1989 and 2001 Pan American Junior Athletics Championships , beside numerous seminars , congresses and courses .",
+        "entities": [
+            {
+                "text": "1982 Southern Cross Games",
+                "category": "event",
+                "reason": "The phrase refers to a specific sporting event held in 1982."
+            },
+            {
+                "text": "1983 South American Championships in Athletics",
+                "category": "event",
+                "reason": "This phrase refers to a specific athletics championship event held in South America in 1983."
+            },
+            {
+                "text": "1985, 1994 and 2001 South American Junior Championships in Athletics",
+                "category": "event",
+                "reason": "These phrases refer to junior-level athletics championship events held in South America in the specified years."
+            },
+            {
+                "text": "1989 and 2001 Pan American Junior Athletics Championships",
+                "category": "event",
+                "reason": "These phrases refer to junior-level athletics championship events held across Pan America in the specified years."
+            }
+        ],
+        "id": 26
+    },
+    {
+        "text": "GAR + 10-Formyltetrahydrofolate \u2192 Phosphoribosyl-N-formylglycineamide + Tetrahydrofolic acid",
+        "entities": [
+            {
+                "text": "GAR",
+                "category": "chemicalcompound",
+                "reason": "GAR is an abbreviation for a chemical compound involved in a biochemical reaction."
+            },
+            {
+                "text": "10-Formyltetrahydrofolate",
+                "category": "chemicalcompound",
+                "reason": "10-Formyltetrahydrofolate is a specific chemical compound participating in the reaction."
+            },
+            {
+                "text": "Phosphoribosyl-N-formylglycineamide",
+                "category": "chemicalcompound",
+                "reason": "Phosphoribosyl-N-formylglycineamide is a chemical compound produced as a result of the reaction."
+            },
+            {
+                "text": "Tetrahydrofolic acid",
+                "category": "chemicalcompound",
+                "reason": "Tetrahydrofolic acid is another chemical compound generated in the reaction."
+            }
+        ],
+        "id": 27
+    },
+    {
+        "text": "Alferov and colleagues worked on Gallium arsenide and Aluminium arsenide III-V heterojunctions .",
+        "entities": [
+            {
+                "text": "Alferov",
+                "category": "person",
+                "reason": "Alferov is a proper noun referring to a person, likely a scientist or researcher based on the context of the sentence."
+            },
+            {
+                "text": "Gallium arsenide",
+                "category": "chemicalcompound",
+                "reason": "Gallium arsenide is a compound formed by the combination of gallium and arsenide, which falls under the category of chemical compounds."
+            },
+            {
+                "text": "Aluminium arsenide",
+                "category": "chemicalcompound",
+                "reason": "Aluminium arsenide, similar to Gallium arsenide, is a chemical compound formed by the combination of aluminium and arsenide."
+            }
+        ],
+        "id": 28
+    },
+    {
+        "text": "She has listed Christina Aguilera , Jessica Simpson , Bobbie Gentry , Janis Joplin , Shelby Lynne , and Shania Twain as her musical influences .",
+        "entities": [
+            {
+                "text": "Christina Aguilera",
+                "category": "person",
+                "reason": "Christina Aguilera is a famous musician, identified as a person."
+            },
+            {
+                "text": "Jessica Simpson",
+                "category": "person",
+                "reason": "Jessica Simpson is a well-known musician and public figure, classified as a person."
+            },
+            {
+                "text": "Bobbie Gentry",
+                "category": "person",
+                "reason": "Bobbie Gentry is a musician, recognized as a person entity."
+            },
+            {
+                "text": "Janis Joplin",
+                "category": "person",
+                "reason": "Janis Joplin is a famous musician, identified as a person."
+            },
+            {
+                "text": "Shelby Lynne",
+                "category": "person",
+                "reason": "Shelby Lynne is a musician, recognized as a person entity."
+            },
+            {
+                "text": "Shania Twain",
+                "category": "person",
+                "reason": "Shania Twain is a well-known musician, classified as a person."
+            }
+        ],
+        "id": 29
+    },
+    {
+        "text": "The Zeitschrift f\u00fcr Naturforschung ( English : Journal for Nature Research ) was established in 1946 by the Max Planck Institute and the physical sciences ( Zeitschrift f\u00fcr Naturforschung A ) were separated from the other natural sciences ( Part B ) from 1947 .",
+        "entities": [
+            {
+                "text": "Zeitschrift f\u00fcr Naturforschung",
+                "category": "academicjournal",
+                "reason": "Zeitschrift f\u00fcr Naturforschung is identified as an academic journal because it is a publication venue for scientific research, as indicated by its title, which translates to 'Journal for Nature Research'."
+            },
+            {
+                "text": "Max Planck Institute",
+                "category": "organisation",
+                "reason": "The Max Planck Institute is a well-known organization in the field of scientific research, and it is identified as the organization responsible for establishing the journal."
+            },
+            {
+                "text": "physical sciences",
+                "category": "discipline",
+                "reason": "physical sciences is a broad field of study that encompasses multiple scientific disciplines, and it is mentioned in the context of being separated from other natural sciences in the journal."
+            },
+            {
+                "text": "Zeitschrift f\u00fcr Naturforschung A",
+                "category": "misc",
+                "reason": "Zeitschrift f\u00fcr Naturforschung A is a specific section or publication within the broader Zeitschrift f\u00fcr Naturforschung journal. It focuses on the physical sciences, as mentioned in the text. It does not fit into any of the predefined entity categories, so it is classified as 'misc'."
+            },
+            {
+                "text": "natural sciences",
+                "category": "discipline",
+                "reason": "natural sciences is another broad field of study, distinct from the physical sciences, that includes multiple scientific disciplines. It is mentioned in the context of being separated from the physical sciences in the journal's structure."
+            }
+        ],
+        "id": 30
+    },
+    {
+        "text": "A second meeting was held soon thereafter and included Klaus Clusius , Robert D\u00f6pel , Werner Heisenberg , and Carl Friedrich von Weizs\u00e4cker .",
+        "entities": [
+            {
+                "text": "Klaus Clusius",
+                "category": "person",
+                "reason": "Klaus Clusius is a named individual, so it is marked as 'person'."
+            },
+            {
+                "text": "Robert D\u00f6pel",
+                "category": "person",
+                "reason": "Robert D\u00f6pel is a named individual, so it is marked as 'person'."
+            },
+            {
+                "text": "Werner Heisenberg",
+                "category": "person",
+                "reason": "Werner Heisenberg is a named individual, so it is marked as 'person'."
+            },
+            {
+                "text": "Carl Friedrich von Weizs\u00e4cker",
+                "category": "person",
+                "reason": "Carl Friedrich von Weizs\u00e4cker is a named individual, so it is marked as 'person'."
+            }
+        ],
+        "id": 31
+    },
+    {
+        "text": "He is the recipient of a Lifetime Achievement Award from the The Recording Academy and a Lifetime Achievement Award from the Rhythm and Blues Foundation .",
+        "entities": [
+            {
+                "text": "Lifetime Achievement Award",
+                "category": "award",
+                "reason": "The phrase 'Lifetime Achievement Award' clearly refers to an award given for lifetime achievement, which falls under the 'award' category."
+            },
+            {
+                "text": "The Recording Academy",
+                "category": "organisation",
+                "reason": "The Recording Academy is an organization that recognizes achievements in the music industry, specifically in recording, and thus falls under the 'organisation' category."
+            },
+            {
+                "text": "Rhythm and Blues Foundation",
+                "category": "organisation",
+                "reason": "The Rhythm and Blues Foundation is an organization dedicated to the preservation and promotion of rhythm and blues music, and therefore belongs to the 'organisation' category. (Note: There may be a typo in the original text, where 'Rhythm' is misspelled as 'Rhythmn', but I have corrected it in my response.)"
+            }
+        ],
+        "id": 32
+    },
+    {
+        "text": "Self-harmful T cells , further referred to as autoreactive T cells , originate in the thymus because of the stochastic process called V ( D ) J recombination which conducts the generation of T-cell receptor ( TCRs ) and enables their limitless variability .",
+        "entities": [
+            {
+                "text": "Self-harmful T cells",
+                "category": "misc",
+                "reason": "Self-harmful T cells is a term used to describe a specific type of T cells, but it does not fall into any of the predefined entity categories. Hence, it is classified as misc."
+            },
+            {
+                "text": "autoreactive T cells",
+                "category": "misc",
+                "reason": "autoreactive T cells is a specific type of T cells related to autoimmune responses. It's not an entity category specified in the list, so it's classified as misc."
+            },
+            {
+                "text": "thymus",
+                "category": "misc",
+                "reason": "thymus refers to an organ in the body related to the immune system. It's not an entity category specified in the list, so it's classified as misc."
+            },
+            {
+                "text": "V ( D ) J recombination",
+                "category": "misc",
+                "reason": "V(D)J recombination is a specific biological process related to immune system development. It does not fall into any of the predefined entity categories and is thus classified as misc."
+            },
+            {
+                "text": "T-cell receptor ( TCRs )",
+                "category": "protein",
+                "reason": "T-cell receptor (TCRs) are proteins found on the surface of T cells that are responsible for recognizing antigens. Hence, they are classified as proteins."
+            }
+        ],
+        "id": 33
+    },
+    {
+        "text": "He has chaired the Southern Growth Policies Board , the Southern Regional Education Board , the Southern Technology Council , the Interstate Oil and Gas Compact Commission , and the Education Commission of the States .",
+        "entities": [
+            {
+                "text": "Southern Growth Policies Board",
+                "category": "organisation",
+                "reason": "It is an organization mentioned in the text, and the context suggests it is related to growth policies in the Southern region."
+            },
+            {
+                "text": "Southern Regional Education Board",
+                "category": "organisation",
+                "reason": "It is an organization mentioned in the text, and the context suggests it is related to education in the Southern region."
+            },
+            {
+                "text": "Southern Technology Council",
+                "category": "organisation",
+                "reason": "It is an organization mentioned in the text, and the context suggests it is related to technology in the Southern region."
+            },
+            {
+                "text": "Interstate Oil and Gas Compact Commission",
+                "category": "organisation",
+                "reason": "It is an organization mentioned in the text, and the context suggests it is related to oil and gas compacts across states."
+            },
+            {
+                "text": "Education Commission of the States",
+                "category": "organisation",
+                "reason": "It is an organization mentioned in the text, and the context suggests it is related to education at the state level."
+            }
+        ],
+        "id": 34
+    },
+    {
+        "text": "The specific ligand of this receptor is CCL25 To note , the chemokine binding protein D6 had previously been named CCR9 , but this molecule is a scavenger receptor not a TRUE ( signaling ) chemokine receptor .",
+        "entities": [
+            {
+                "text": "CCL25",
+                "category": "chemicalcompound",
+                "reason": "CCL25 refers to a specific chemical ligand, which is a type of chemical compound."
+            },
+            {
+                "text": "chemokine binding protein D6",
+                "category": "protein",
+                "reason": "chemokine binding protein D6 is a specific protein that binds chemokines."
+            },
+            {
+                "text": "CCR9",
+                "category": "protein",
+                "reason": "CCR9 had been named for the chemokine binding protein D6, indicating it is a protein."
+            },
+            {
+                "text": "scavenger receptor",
+                "category": "protein",
+                "reason": "scavenger receptor refers to a type of protein receptor involved in scavenging molecules."
+            },
+            {
+                "text": "chemokine receptor",
+                "category": "protein",
+                "reason": "chemokine receptor refers to a type of protein receptor that binds chemokines."
+            }
+        ],
+        "id": 35
+    },
+    {
+        "text": "This type of oxidative stress causes a loss of NF-\u03baB signaling .",
+        "entities": [
+            {
+                "text": "oxidative stress",
+                "category": "misc",
+                "reason": "Oxidative stress is a biological process that can be marked as 'misc' since it does not fit into any of the other specified categories."
+            },
+            {
+                "text": "NF-\u03baB signaling",
+                "category": "misc",
+                "reason": "NF-\u03baB signaling refers to a biological signaling pathway. It is marked as 'misc' because it does not fall under any of the specified entity categories."
+            }
+        ],
+        "id": 36
+    },
+    {
+        "text": "Mikhail Rabinovich published over 250 peer reviewed articles in leading scientific journals ( Science , Neuron , Journal of Neuroscience , PLoS Computational Biology , Reviews of Modern Physics , Physics of Fluids , Physical Review Letters ) that are actively cited ( over 3000 citations ) .",
+        "entities": [
+            {
+                "text": "Mikhail Rabinovich",
+                "category": "person",
+                "reason": "Mikhail Rabinovich is the name of a person, identifiable as the subject of the sentence who performed the action of publishing articles."
+            },
+            {
+                "text": "Science",
+                "category": "academicjournal",
+                "reason": "Science is a well-known scientific journal, and it falls under the category of academicjournal."
+            },
+            {
+                "text": "Neuron",
+                "category": "academicjournal",
+                "reason": "Neuron is a recognized scientific journal in the field of neuroscience, classified as an academicjournal."
+            },
+            {
+                "text": "Journal of Neuroscience",
+                "category": "academicjournal",
+                "reason": "Journal of Neuroscience is a prominent publication in the field of neuroscience, hence it is categorized as an academicjournal."
+            },
+            {
+                "text": "PLoS Computational Biology",
+                "category": "academicjournal",
+                "reason": "PLoS Computational Biology is a respected journal in the field of computational biology, making it an academicjournal."
+            },
+            {
+                "text": "Reviews of Modern Physics",
+                "category": "academicjournal",
+                "reason": "Reviews of Modern Physics is a highly regarded journal in physics, falling under the category of academicjournal."
+            },
+            {
+                "text": "Physics of Fluids",
+                "category": "academicjournal",
+                "reason": "Physics of Fluids is a specialized journal in the field of fluid dynamics, making it an academicjournal."
+            },
+            {
+                "text": "Physical Review Letters",
+                "category": "academicjournal",
+                "reason": "Physical Review Letters is a prominent physics journal, and it is classified as an academicjournal."
+            }
+        ],
+        "id": 37
+    },
+    {
+        "text": "Currently , three major groups of DNA binding proteins have been predominantly used for epigenome editing : Zinc finger proteins , Transcription Activator-Like Effectors ( TALEs ) and nuclease deficient Cas9 fusions ( CRISPR ) .",
+        "entities": [
+            {
+                "text": "DNA binding proteins",
+                "category": "protein",
+                "reason": "DNA binding proteins are a type of protein that specifically bind to DNA, hence falling under the 'protein' category."
+            },
+            {
+                "text": "Zinc finger proteins",
+                "category": "protein",
+                "reason": "Zinc finger proteins are a specific type of protein known for their ability to bind DNA, thus classified as 'protein'."
+            },
+            {
+                "text": "Transcription Activator-Like Effectors ( TALEs )",
+                "category": "protein",
+                "reason": "Transcription Activator-Like Effectors (TALEs) are proteins that can be engineered to bind specific DNA sequences, making them fall under the 'protein' category."
+            },
+            {
+                "text": "nuclease deficient Cas9 fusions ( CRISPR )",
+                "category": "protein",
+                "reason": "nuclease deficient Cas9 fusions are modified versions of the Cas9 protein used in the CRISPR gene editing system, and hence are classified as 'protein'."
+            }
+        ],
+        "id": 38
+    },
+    {
+        "text": "On screen she has starred in scores of films and is a six-time Oscar nominee , winning the Academy Award for Best Supporting Actress for the title role in the film Julia ( 1977 ) . 1977 ) .",
+        "entities": [
+            {
+                "text": "Oscar",
+                "category": "award",
+                "reason": "Oscar is a well-known award in the film industry, specifically mentioned as an award nomination in this context."
+            },
+            {
+                "text": "Academy Award",
+                "category": "award",
+                "reason": "The Academy Award, commonly known as the Oscar, is the most recognized award in the film industry."
+            },
+            {
+                "text": "Julia",
+                "category": "film",
+                "reason": "Julia is mentioned as a film in which the person won an award for the title role, hence it is categorized as a film."
+            }
+        ],
+        "id": 39
+    },
+    {
+        "text": "By 1914 , experiments by physicists Ernest Rutherford , Henry Moseley , James Franck and Gustav Ludwig Hertz had largely established the structure of an atom as a dense nucleus of positive charge surrounded by lower-mass electrons .",
+        "entities": [
+            {
+                "text": "Ernest Rutherford",
+                "category": "scientist",
+                "reason": "Ernest Rutherford is a well-known physicist mentioned in the text, hence marked as a scientist."
+            },
+            {
+                "text": "Henry Moseley",
+                "category": "scientist",
+                "reason": "Henry Moseley is a scientist mentioned in the text for his experiments, hence marked as a scientist."
+            },
+            {
+                "text": "James Franck",
+                "category": "scientist",
+                "reason": "James Franck is a scientist mentioned for his role in experiments related to the structure of the atom, hence marked as a scientist."
+            },
+            {
+                "text": "Gustav Ludwig Hertz",
+                "category": "scientist",
+                "reason": "Gustav Ludwig Hertz is a scientist mentioned in the text for his contributions to experiments on atomic structure, hence marked as a scientist."
+            },
+            {
+                "text": "atom",
+                "category": "misc",
+                "reason": "The word 'atom' refers to the basic unit of matter, which is not a named entity but a fundamental concept in chemistry and physics. It does not fall under any of the specified entity categories, hence marked as misc."
+            },
+            {
+                "text": "nucleus",
+                "category": "misc",
+                "reason": "The word 'nucleus' refers to the central part of an atom, which is a fundamental concept in atomic physics. It is not a named entity and does not fall under any of the specified entity categories, hence marked as misc."
+            },
+            {
+                "text": "electrons",
+                "category": "misc",
+                "reason": "The word 'electrons' refers to subatomic particles, which are fundamental components of atoms. While they are important in the scientific context, they do not constitute a named entity and do not fall under any of the specified entity categories, hence marked as misc."
+            }
+        ],
+        "id": 40
+    },
+    {
+        "text": "When the discovery of a new element is claimed , the Joint Working Party ( JWP ) of the International Union of Pure and Applied Chemistry ( IUPAC ) and the International Union of Pure and Applied Physics ( IUPAP ) assembles to examine the claims according to their criteria for the discovery of a new element , and decides scientific priority and naming rights for the elements .",
+        "entities": [
+            {
+                "text": "Joint Working Party (JWP)",
+                "category": "organisation",
+                "reason": "The Joint Working Party (JWP) is an organised group within the International Union of Pure and Applied Chemistry (IUPAC) and the International Union of Pure and Applied Physics (IUPAP), responsible for specific tasks related to the discovery and naming of new elements."
+            },
+            {
+                "text": "International Union of Pure and Applied Chemistry (IUPAC)",
+                "category": "organisation",
+                "reason": "The International Union of Pure and Applied Chemistry (IUPAC) is a recognised organisation in the field of chemistry, responsible for standardising nomenclature and terminology."
+            },
+            {
+                "text": "International Union of Pure and Applied Physics (IUPAP)",
+                "category": "organisation",
+                "reason": "The International Union of Pure and Applied Physics (IUPAP) is a recognised organisation in the field of physics, working alongside IUPAC in areas of overlap, such as the discovery and classification of new elements."
+            },
+            {
+                "text": "criteria for the discovery of a new element",
+                "category": "misc",
+                "reason": "This phrase refers to a set of standards or guidelines used to determine whether a new element has been discovered. While it doesn't fit into any of the specified entity categories, it is a significant concept within the text."
+            }
+        ],
+        "id": 41
+    },
+    {
+        "text": "He was a Fellow of the Royal Society and a foreign member of the Royal Swedish Academy of Sciences .",
+        "entities": [
+            {
+                "text": "Royal Society",
+                "category": "organisation",
+                "reason": "The Royal Society is a national academy of science based in London, UK, and is recognized as an important organization in the field of science."
+            },
+            {
+                "text": "Royal Swedish Academy of Sciences",
+                "category": "organisation",
+                "reason": "The Royal Swedish Academy of Sciences is a learned society and an independent, non-governmental organization that promotes the natural sciences, mathematics, and engineering research in Sweden."
+            }
+        ],
+        "id": 42
+    },
+    {
+        "text": "Further story arcs which provided a particular focus on individual characters include Addison Montgomery-Shepherd ( Kate Walsh ) facing Derek Shepherd ' s ( Patrick Dempsey ) desire to divorce her , Izzie Stevens ( Katherine Heigl ) coping with Denny Duquette ' s ( Jeffrey Dean Morgan ) death and the repercussions of her choice to quit the internship program , and Meredith Grey ( Ellen Pompeo ) struggling with the choice between Shepherd and Finn Dandridge ( Chris O 'Donnell ) .",
+        "entities": [
+            {
+                "text": "Addison Montgomery-Shepherd",
+                "category": "person",
+                "reason": "Addison Montgomery-Shepherd is a character in the mentioned story arcs, played by Kate Walsh. Hence, it is marked as a person entity."
+            },
+            {
+                "text": "Kate Walsh",
+                "category": "person",
+                "reason": "Kate Walsh is a real person, an actress who plays the character of Addison Montgomery-Shepherd. Therefore, it is marked as a person entity."
+            },
+            {
+                "text": "Derek Shepherd",
+                "category": "person",
+                "reason": "Derek Shepherd is a character in the story, played by Patrick Dempsey. Thus, it is identified as a person entity."
+            },
+            {
+                "text": "Patrick Dempsey",
+                "category": "person",
+                "reason": "Patrick Dempsey is a real person, an actor portraying the character of Derek Shepherd. Hence, it is marked as a person entity."
+            },
+            {
+                "text": "Izzie Stevens",
+                "category": "person",
+                "reason": "Izzie Stevens is another character in the story, played by Katherine Heigl, and is therefore marked as a person entity."
+            },
+            {
+                "text": "Katherine Heigl",
+                "category": "person",
+                "reason": "Katherine Heigl is a real person, an actress playing the role of Izzie Stevens. Therefore, it is identified as a person entity."
+            },
+            {
+                "text": "Denny Duquette",
+                "category": "person",
+                "reason": "Denny Duquette is a character in the story, portrayed by Jeffrey Dean Morgan. He is mentioned in relation to Izzie Stevens' coping with his death, making him a person entity."
+            },
+            {
+                "text": "Jeffrey Dean Morgan",
+                "category": "person",
+                "reason": "Jeffrey Dean Morgan is a real person, an actor who plays the character of Denny Duquette. Thus, it is marked as a person entity."
+            },
+            {
+                "text": "Meredith Grey",
+                "category": "person",
+                "reason": "Meredith Grey is another character in the mentioned story arcs, played by Ellen Pompeo. She is described as struggling with a choice, making her a significant person entity."
+            },
+            {
+                "text": "Ellen Pompeo",
+                "category": "person",
+                "reason": "Ellen Pompeo is a real person, an actress portraying the character of Meredith Grey. Therefore, it is identified as a person entity."
+            },
+            {
+                "text": "Finn Dandridge",
+                "category": "person",
+                "reason": "Finn Dandridge is mentioned as a character in the story, specifically in relation to Meredith Grey's struggle. He is played by Chris O'Donnell, making him a person entity."
+            },
+            {
+                "text": "Chris O 'Donnell",
+                "category": "person",
+                "reason": "Chris O'Donnell is a real person, an actor who plays the character of Finn Dandridge. Hence, it is marked as a person entity."
+            }
+        ],
+        "id": 43
+    }
+]
